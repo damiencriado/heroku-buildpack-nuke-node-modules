@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+BUILD_DIR=$1
+
+cd $BUILD_DIR
+
+echo "Removing node_modules directory from slug"
+rm -rf node_modules
