@@ -1,1 +1,1 @@
-heroku-buildpack-nuke-node-modules
+[![Heroku Buildpack Nuke Node Modules](https://ohmybadge.com/ohmybadge.svg?a=Heroku%20Buildpack&b=Nuke%20Node%20Modules&r=3&s=sunset-city)](https://github.com/itsDamien/heroku-buildpack-nuke-node-modules)
